@@ -1,6 +1,10 @@
-<h1 align="center">Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Hacker GIF" width="800px">
+</div>
 
-<p align="center">I'm [Your Name], a [Your Profession] from [Your Location]. Welcome to my GitHub profile!</p>
+<h1 align="center">Hello, Hacker! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
+<p align="center">I'm [Your Name], a [Your Profession] from [Your Location]. Welcome to my lair!</p>
 
 <p align="center">
   <a href="your LinkedIn profile URL"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -65,4 +69,4 @@
   Interesting fact about yourself or something you love
 </p>
 
-<p align="center">Thanks for visiting my profile! 😄</p>
+<p align="center">Thanks for hacking into my profile! 🖥️</p>
