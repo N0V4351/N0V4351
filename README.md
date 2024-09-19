@@ -58,4 +58,15 @@
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+---
+
+### 🎮 Fun Zone:
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD8jOpDIgFV2zVK/giphy.gif" width="200" alt="Cool Animation" />
+</p>
+
+<p align="center"> Let's build something amazing together! 🚀</p>
