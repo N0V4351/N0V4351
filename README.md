@@ -52,4 +52,22 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.youtube.com/@ErfanNoyonSMC/" target="_blank">
-    <img src="ht
+    <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://x.com/smc_erfan" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)"/>
+  </a>
+</p>
+
+---
+
+### 🔥 Let's Code & Dominate:
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="coding_animation"/>
+</p>
+
+<p align="center">
+  💥 **Coding is my Superpower** 💥<br/>
+  <i>Let's push the limits and build epic stuff together!</i>
+</p>
