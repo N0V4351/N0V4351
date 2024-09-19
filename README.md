@@ -1,44 +1,61 @@
-<h1 align="center">Hi 👋, I'm Erfan Noyon</h1>
-<h3 align="center">A passionate front & Backend developer from Bangladesh</h3>
+<h1 align="center">Hi there, I'm <a href="https://github.com/your-github-username">Erfan Noyon</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">A passionate Front & Backend Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n0v4351&label=Profile%20views&color=0e75b6&style=flat" alt="n0v4351" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n0v4351" alt="n0v4351" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/smc_erfan" target="blank"><img src="https://img.shields.io/twitter/follow/smc_erfan?logo=twitter&style=for-the-badge" alt="smc_erfan" /></a> </p>
-
-- 🔭 I’m currently working on **WATMRK**
-
-- 🌱 I’m currently learning **Frames Works, AI, C#**
-
-- 👨‍💻 All of my projects are available at [https://github.com/N0V4351](https://github.com/N0V4351)
-
-- 📝 I regularly write articles on [https://www.erfannoyon.com/blog](https://www.erfannoyon.com/blog)
-
-- 💬 Ask me about **php, javascript, python, C++**
-
-- 📫 How to reach me **itserfannoyon@gmail.com**
-
-- 📄 Know about my experiences [https://www.erfannoyon.com](https://www.erfannoyon.com)
-
-- ⚡ Fun fact **I'm not Gay**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/smc_erfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smc_erfan" height="30" width="40" /></a>
-<a href="https://fb.com/erfan.noyon.357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="erfan.noyon.357" height="30" width="40" /></a>
-<a href="https://instagram.com/smc_erfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smc_erfan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/smc_erfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="smc_erfan" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" width="400"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mdnoyon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mdnoyon" /></a></p><br><br>
+### 🙋‍♂️ About Me:
+- 🔭 I’m currently working on **Full-Stack Projects**
+- 🌱 I’m currently learning **Next.js, TypeScript, and Cloud Solutions**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, React, Node.js, or anything tech!**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love gaming, music, and traveling**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n0v4351&show_icons=true&locale=en&layout=compact" alt="n0v4351" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n0v4351&show_icons=true&locale=en" alt="n0v4351" /></p>
+### 📫 How to reach me:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n0v4351&" alt="n0v4351" /></p>
+<p align="center">
+  <a href="https://www.facebook.com/erfan.noyon.357" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/smc_erfan/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@ErfanNoyonSMC/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000.svg?logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://x.com/smc_erfan" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white" alt="X (Twitter)" />
+  </a>
+</p>
+
+---
+
+### 🔥 GitHub Stats:
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Erfan's GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="Erfan's GitHub Streak"/>
+</p>
+
+---
+
+### 🚀 Top Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt
